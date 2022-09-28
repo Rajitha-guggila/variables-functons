@@ -1,2 +1,2 @@
 # variables-functons
-global,local,built-in functions
+global variables,local variables and built-in functions
